@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Implementation-Title: TERASOLUNA Server Framework for Java (5.x) Web B
  lank Project
 Implementation-Version: 1.0.0-SNAPSHOT
-Built-By: kota_wat
+Built-By: hide
 Implementation-Vendor-Id: todo
-Build-Jdk: 1.8.0_77
+Build-Jdk: 1.8.0_51
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: terasoluna.org
 
